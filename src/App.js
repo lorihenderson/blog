@@ -2,9 +2,13 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-     hello world
-    </div>
+    <main>
+      <header>
+        not working,
+        tags won't show up
+        
+      </header>
+    </main>
   );
 }
 
